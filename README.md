@@ -14,8 +14,8 @@
 
 ####  Group  Id :  2021S1_JUNE_WD_01  ####
 
-IT Number | Name  |  Respective  Function
-| :--- | ---: | ---: 
+IT Number | Name  
+| :--- | ---:
 IT19184722  | Nirmal H.I.D 
 IT19251110  | Deshan W.M.Y 
 IT19187938  | Ariyarathna D.D.C.M
